@@ -24,6 +24,11 @@ export default function Home() {
             <h3>Titeltje</h3>
             <p>bla</p>
           </a>
+
+          <a href="/" className={styles.card}>
+            <h3>Titeltje</h3>
+            <p>bla</p>
+          </a>
         </div>
       </main>
 
