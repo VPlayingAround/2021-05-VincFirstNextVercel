@@ -26,7 +26,12 @@ export default function Home() {
           </a>
 
           <a href="/" className={styles.card}>
-            <h3>Titeltje</h3>
+            <h3>Tweede Kopje?!</h3>
+            <p>bla</p>
+          </a>
+
+          <a href="/" className={styles.card}>
+            <h3>Waarom geen derde</h3>
             <p>bla</p>
           </a>
         </div>
