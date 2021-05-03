@@ -34,6 +34,11 @@ export default function Home() {
             <h3>Waarom geen derde</h3>
             <p>bla</p>
           </a>
+
+          <a href="/" className={styles.card}>
+            <h3>Gaat negens heen dits</h3>
+            <p>jwz</p>
+          </a>
         </div>
       </main>
 
