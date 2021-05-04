@@ -23,8 +23,8 @@ export default function Home() {
           </a>
 
           <a href="/" className={styles.card}>
-            <h3>Tweede Kopje?!</h3>
-            <p>bla</p>
+            <h3>Wat nou als ik shit verander??!</h3>
+            <p>hoe snel is het geupdate locally en online?</p>
           </a>
 
           <a href="/" className={styles.card}>
