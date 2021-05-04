@@ -10,10 +10,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>
-          Zomg vinc speelt met <a href="https://nextjs.org">Next.js</a> live op
-          vercel!
-        </h1>
+        <h1 className={styles.title}>Title</h1>
 
         <p className={styles.description}>
           beschrijvinkje txtje is wat langere zin
