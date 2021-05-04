@@ -17,9 +17,9 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="/" className={styles.card}>
-            <h3>Titeltje</h3>
-            <p>bla</p>
+          <a href="about/" className={styles.card}>
+            <h3>About</h3>
+            <p>ga naar de pagina die uitlegt wat is wat.</p>
           </a>
 
           <a href="/" className={styles.card}>
